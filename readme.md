@@ -1,8 +1,8 @@
 # webSocketDemo
 a webSocket demo by SpringBoot 
 
-
 运行之后测试方法：
+
 1.登录
 
 打开http://localhost:8080/websocket/login?username=guest&password=123
